@@ -1,5 +1,5 @@
 // HibernateConfiguration
-hbm2ddl.auto 
+hbm2ddl.auto .
 create:create schema , previous data will be deleted
 update : update schema with given values
 validate : validate schema. it make no changes
